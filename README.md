@@ -18,6 +18,7 @@
   - 🎛️ Smart Home Automation
 - 🧪 Completed a **2-month internship at DRDO-ASL**, Hyderabad  
   → Worked on **Embedded Systems** and real-time control hardware
+- ☕ Completed **Java Development Training**, strengthening **Object-Oriented Programming (OOPs)** and **Core Java concepts**
 
 ---
 
@@ -40,6 +41,7 @@
 - 🛠️ Built multiple hardware projects with **G-Electra**
 - 📣 Volunteered & organized tech events during **PRAMANA** Fest
 - 🧪 Interned at **DRDO–ASL, Hyderabad** (2 months) on **Embedded Systems**
+- ☕ Successfully completed **Java Development Training**, gaining expertise in **OOPs, Data Structures, and Problem Solving**
 
 ---
 
